@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ProOTP</string>
+    <string name="enter_your_phone_no">Enter Your Phone No.</string>
+    <string name="phone_no">Phone No.</string>
+
+    <string name="terms">
+
+        GENERAL TERMS AND CONDITIONS
+
+1.	The rider/driver must be 18 years old or older to rent a vehicle. If the rider/driver is under the stipulated age, his or her order will be cancelled without any refund.
+2.	The following documents will be verified, in original, for each rider/driver:
+
+a.	College ID
+b.	Driving License
+c.	Aadhaar Card
+*Additional documents may be required based on the location. Please read the vendor Terms and Conditions while booking.
+3.	Vehicle bookings are subject to availability. Newwave reserves the right to cancel any booking if deemed necessary.
+4.	Riders/drivers should respect and follow traffic rules and regulations at all times. All challans issued due to rider/driver negligence need to be paid in full to the penalizing authority or legal action can be taken against the rider/driver.
+5.	The rider/driver is not authorized to lend the vehicle to anybody else without first informing Newwave. In such cases, Newwave will verify the documents of the new rider/driver before starting the trip.
+6.	The rider/driver is authorized to inspect and test drive the vehicle before renting it. After the rider/driver declares that the vehicle meets their requirements, no claim will be accepted against any physical or mechanical damage to the vehicle later. All the damage-related expenses must be borne by the rider/driver with genuine spares. The rider/driver can take a photograph of the vehicle for security purposes.
+
+CANCELLATION &amp; REFUND POLICY
+1.	You can cancel your trip:
+a.	The entire amount paid by the rider/driver will be charged as the cancellation fee. There will be NO REFUND made for such cancellations.
+b.	More than 24 hours before the trip starts: 20% of the amount paid by the rider/driver will be deducted as the cancellation fee and the remaining 80% of the amount will be refunded to the source account.
+c.	No show(More than 30 min after the trip starts time without any information to Partner or Newwave): The entire amount paid by the rider/driver will be charged as the cancellation fee. There will be NO REFUND made for such cancellations.
+2.	If Newwave cancels any booking due to non-availability, a full refund will be initiated. The refunded amount will be reflected in the rider/driver\'s bank account within 7-10 business days.
+3.	Newwave has complete authority to cancel the booking without prior notice.
+4.	No refund/reimbursement/cancellation claim will be considered after 48 hours of the completion of the booking period.
+5.	Cancellation due to document issue:
+
+a.	The rider/driver is not willing to submit the document as per the terms and conditions.
+b.	The rider/driver is not able to verify his/her identity.
+c.	The rider/driver documents are not valid.
+
+    </string>
+</resources>

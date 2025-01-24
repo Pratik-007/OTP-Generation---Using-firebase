@@ -27,6 +27,7 @@ Enable Phone Authentication in Firebase Console.
 Build and run the app.
 
 #Usage
+
 Enter your phone number to request an OTP.
 Verify the OTP sent to your phone.
 Access the authenticated features of the app.
